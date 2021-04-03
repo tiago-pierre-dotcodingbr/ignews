@@ -53,6 +53,7 @@ $ yarn dev
 <ul>
   <li>Stripe</li>
   <li>Fauna Db</li>
+  <li>NextJS</li>
   <li>ReactJS</li>
   <li>TypeScript</li>
   <li>HTML5</li>
