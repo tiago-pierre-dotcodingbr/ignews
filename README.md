@@ -19,10 +19,11 @@
 <ul>
   <li> Login whith Github.</li>
   <li> Signature with card.</li>
-  <li> Show complete content for premium user</li>
-  <li> Do not show full content for non premium users</li>
-  <li> Receive payment using Stripe</li>
-  <li> Store user data in Fauna Db</li>
+  <li> Show complete content for premium user.</li>
+  <li> Do not show full content for non premium users.</li>
+  <li> Receive payment using Stripe.</li>
+  <li> Store user data in Fauna D.b</li>
+  <li> Consume content through the Prismic CMS.</li>
 </ul>
 
 <h2>Starting</h2>
@@ -53,6 +54,7 @@ $ yarn dev
 <ul>
   <li>Stripe</li>
   <li>Fauna Db</li>
+  <li>Prismic</li>
   <li>NextJS</li>
   <li>ReactJS</li>
   <li>TypeScript</li>
